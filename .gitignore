@@ -1,0 +1,11 @@
+# Ignored Folders:
+LaTeX/out
+LaTeX/src/Template-Disertatie-BIOSINF
+LaTex/.idea
+.idea
+
+# Ignored Files:
+LaTeX/Template-Disertatie-BIOSINF.zip
+
+# Temporary, THIS NEEDES TO BE Deleted.
+*.py
